@@ -10,7 +10,7 @@ def detect_passport_mrz(img_path):
 
     mrz = read_mrz(path, save_roi=True)
     data = mrz.to_dict()
-    final_data = {'Nationality': data['country'], 'name': data['names'].split()[0], 'surname': data['surname'],
+    final_data = {'Nationality': data['country'], 'name': data['names'].split()[0] + data['surname'],
                   'type': data['type'], 'data_of_birth': '/'.join(
             [data['date_of_birth'][:2], data['date_of_birth'][2:4], data['date_of_birth'][4:6]][::-1]),
                   'sex': data['sex'], 'expiration_date': '/'.join(

@@ -1736,13 +1736,1173 @@ const desktopModeProps = {
       },
       "callbacks": {}
     }
+  },
+  "view_test": {
+    "Button3": {
+      "styles": {
+        "color": "#fff",
+        "backgroundColor": "#eb4b43",
+        "paddingTop": "",
+        "paddingLeft": "",
+        "paddingBottom": "",
+        "paddingRight": "",
+        "fontSize": "16px",
+        "borderRadius": "8px",
+        "outline": "none",
+        "fontWeight": 400,
+        "textAlign": "center",
+        "borderWidth": "",
+        "borderStyle": "none",
+        "borderColor": "#1890ff",
+        "cursor": "pointer",
+        "userSelect": "none",
+        "width": "15px",
+        "height": "16px"
+      },
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox32": {
+      "styles": {
+        "color": "#94A3B8"
+      },
+      "custom": {
+        "text": "Passport Type"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button4": {
+      "styles": {
+        "color": "#fff",
+        "backgroundColor": "#d0d020",
+        "paddingTop": "",
+        "paddingLeft": "",
+        "paddingBottom": "",
+        "paddingRight": "",
+        "fontSize": "16px",
+        "borderRadius": "8px",
+        "outline": "none",
+        "fontWeight": 400,
+        "textAlign": "center",
+        "borderWidth": "",
+        "borderStyle": "none",
+        "borderColor": "#1890ff",
+        "cursor": "pointer",
+        "userSelect": "none",
+        "width": "15px",
+        "height": "16px"
+      },
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox33": {
+      "styles": {
+        "color": "#94A3B8"
+      },
+      "custom": {
+        "text": "Expiry Date"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button5": {
+      "styles": {
+        "color": "#fff",
+        "backgroundColor": "#f1a39a",
+        "paddingTop": "",
+        "paddingLeft": "",
+        "paddingBottom": "",
+        "paddingRight": "",
+        "fontSize": "16px",
+        "borderRadius": "8px",
+        "outline": "none",
+        "fontWeight": 400,
+        "textAlign": "center",
+        "borderWidth": "",
+        "borderStyle": "none",
+        "borderColor": "#1890ff",
+        "cursor": "pointer",
+        "userSelect": "none",
+        "width": "15px",
+        "height": "16px"
+      },
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox34": {
+      "styles": {
+        "color": "#94A3B8"
+      },
+      "custom": {
+        "text": "Date of Birth"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button6": {
+      "styles": {
+        "color": "#fff",
+        "backgroundColor": "#ef7939",
+        "paddingTop": "",
+        "paddingLeft": "",
+        "paddingBottom": "",
+        "paddingRight": "",
+        "fontSize": "16px",
+        "borderRadius": "8px",
+        "outline": "none",
+        "fontWeight": 400,
+        "textAlign": "center",
+        "borderWidth": "",
+        "borderStyle": "none",
+        "borderColor": "#1890ff",
+        "cursor": "pointer",
+        "userSelect": "none",
+        "width": "15px",
+        "height": "16px"
+      },
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox35": {
+      "styles": {
+        "color": "#94A3B8"
+      },
+      "custom": {
+        "text": "Passport no."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox36": {
+      "styles": {
+        "color": "#94A3B8"
+      },
+      "custom": {
+        "text": "Name"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button7": {
+      "styles": {
+        "color": "#fff",
+        "backgroundColor": "#f4b446",
+        "paddingTop": "",
+        "paddingLeft": "",
+        "paddingBottom": "",
+        "paddingRight": "",
+        "fontSize": "16px",
+        "borderRadius": "8px",
+        "outline": "none",
+        "fontWeight": 400,
+        "textAlign": "center",
+        "borderWidth": "",
+        "borderStyle": "none",
+        "borderColor": "#1890ff",
+        "cursor": "pointer",
+        "userSelect": "none",
+        "width": "15px",
+        "height": "16px"
+      },
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox37": {
+      "styles": {
+        "width": "15rem"
+      },
+      "custom": {
+        "text": "Jane Doe"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex67": {
+      "styles": {
+        "display": "inline-flex",
+        "alignItems": "center",
+        "fontFamily": "IBM Plex Sans",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "columnGap": "10px"
+      },
+      "callbacks": {}
+    },
+    "TextBox38": {
+      "styles": {
+        "width": "15rem"
+      },
+      "custom": {
+        "text": "Jane Doe"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex68": {
+      "styles": {
+        "display": "inline-flex",
+        "alignItems": "center",
+        "fontFamily": "IBM Plex Sans",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "columnGap": "10px"
+      },
+      "callbacks": {}
+    },
+    "TextBox39": {
+      "styles": {
+        "width": "15rem"
+      },
+      "custom": {
+        "text": "Jane Doe"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex69": {
+      "styles": {
+        "display": "inline-flex",
+        "alignItems": "center",
+        "fontFamily": "IBM Plex Sans",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "columnGap": "10px"
+      },
+      "callbacks": {}
+    },
+    "TextBox40": {
+      "styles": {
+        "width": "15rem"
+      },
+      "custom": {
+        "text": "Jane Doe"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex70": {
+      "styles": {
+        "display": "inline-flex",
+        "alignItems": "center",
+        "fontFamily": "IBM Plex Sans",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "columnGap": "10px"
+      },
+      "callbacks": {}
+    },
+    "TextBox41": {
+      "styles": {
+        "width": "15rem"
+      },
+      "custom": {
+        "text": "Jane Doe"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex71": {
+      "styles": {
+        "display": "inline-flex",
+        "alignItems": "center",
+        "fontFamily": "IBM Plex Sans",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "columnGap": "10px"
+      },
+      "callbacks": {}
+    },
+    "Image37": {
+      "styles": {
+        "width": "600px"
+      },
+      "custom": {
+        "alt": "No preview available",
+        "src": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox42": {
+      "styles": {
+        "fontSize": "16px"
+      },
+      "custom": {
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox43": {
+      "styles": {
+        "fontSize": "12px",
+        "color": "#94A3B8"
+      },
+      "custom": {
+        "text": "3h"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox44": {
+      "styles": {
+        "fontFamily": "IBM Plex Sans",
+        "fontSize": "16px",
+        "fontWeight": 600
+      },
+      "custom": {
+        "text": "username"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image38": {
+      "styles": {
+        "width": "40px",
+        "height": "40px"
+      },
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/propfile_pic_2.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image39": {
+      "styles": {
+        "width": "40px",
+        "height": "40px"
+      },
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/profile_pic_1.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox45": {
+      "styles": {
+        "fontFamily": "IBM Plex Sans",
+        "fontSize": "16px",
+        "fontWeight": 600
+      },
+      "custom": {
+        "text": "username"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox46": {
+      "styles": {
+        "fontSize": "12px",
+        "color": "#94A3B8"
+      },
+      "custom": {
+        "text": "3h"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox47": {
+      "styles": {
+        "fontSize": "16px"
+      },
+      "custom": {
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox48": {
+      "styles": {
+        "fontSize": "16px"
+      },
+      "custom": {
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox49": {
+      "styles": {
+        "fontSize": "12px",
+        "color": "#94A3B8"
+      },
+      "custom": {
+        "text": "3h"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox50": {
+      "styles": {
+        "fontFamily": "IBM Plex Sans",
+        "fontSize": "16px",
+        "fontWeight": 600
+      },
+      "custom": {
+        "text": "username"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image40": {
+      "styles": {
+        "width": "40px",
+        "height": "40px"
+      },
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/profile_pic_3.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex72": {
+      "styles": {
+        "display": "flex",
+        "justifyContent": "space-between",
+        "fontFamily": "IBM Plex Sans",
+        "fontSize": "16px",
+        "columnGap": "40px"
+      },
+      "callbacks": {}
+    },
+    "Flex73": {
+      "styles": {
+        "display": "flex",
+        "justifyContent": "space-between",
+        "fontFamily": "IBM Plex Sans",
+        "fontSize": "16px",
+        "columnGap": "40px"
+      },
+      "callbacks": {}
+    },
+    "Flex74": {
+      "styles": {
+        "display": "flex",
+        "justifyContent": "space-between",
+        "fontFamily": "IBM Plex Sans",
+        "fontSize": "16px",
+        "columnGap": "40px"
+      },
+      "callbacks": {}
+    },
+    "Flex75": {
+      "styles": {
+        "display": "flex",
+        "justifyContent": "space-between",
+        "fontFamily": "IBM Plex Sans",
+        "fontSize": "16px",
+        "columnGap": "40px"
+      },
+      "callbacks": {}
+    },
+    "Flex76": {
+      "styles": {
+        "display": "flex",
+        "justifyContent": "space-between",
+        "fontFamily": "IBM Plex Sans",
+        "fontSize": "16px",
+        "columnGap": "40px"
+      },
+      "callbacks": {}
+    },
+    "Flex77": {
+      "styles": {
+        "display": "inline-flex",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "flexGrow": 1
+      },
+      "callbacks": {}
+    },
+    "Flex78": {
+      "styles": {
+        "display": "flex",
+        "flexGrow": 1,
+        "flexDirection": "column",
+        "fontFamily": "IBM Plex Sans",
+        "rowGap": "6px"
+      },
+      "callbacks": {}
+    },
+    "Flex79": {
+      "styles": {
+        "display": "flex"
+      },
+      "callbacks": {}
+    },
+    "Flex80": {
+      "styles": {
+        "display": "flex"
+      },
+      "callbacks": {}
+    },
+    "Flex81": {
+      "styles": {
+        "display": "flex",
+        "flexGrow": 1,
+        "flexDirection": "column",
+        "fontFamily": "IBM Plex Sans",
+        "rowGap": "6px"
+      },
+      "callbacks": {}
+    },
+    "Flex82": {
+      "styles": {
+        "display": "flex",
+        "flexGrow": 1,
+        "flexDirection": "column",
+        "fontFamily": "IBM Plex Sans",
+        "rowGap": "6px"
+      },
+      "callbacks": {}
+    },
+    "Flex83": {
+      "styles": {
+        "display": "flex"
+      },
+      "callbacks": {}
+    },
+    "Button8": {
+      "styles": {
+        "color": "#fff",
+        "backgroundColor": "#1E293B",
+        "paddingTop": "6px",
+        "paddingLeft": "10px",
+        "paddingBottom": "6px",
+        "paddingRight": "10px",
+        "fontSize": "16px",
+        "borderRadius": "4px",
+        "outline": "none",
+        "fontWeight": 700,
+        "textAlign": "center",
+        "borderWidth": "1px",
+        "borderStyle": "none",
+        "borderColor": "",
+        "cursor": "pointer",
+        "userSelect": "none",
+        "fontFamily": "IBM Plex Sans",
+        "outlineStyle": "none"
+      },
+      "custom": {
+        "text": "Submit"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox51": {
+      "styles": {
+        "alignSelf": "center"
+      },
+      "custom": {
+        "text": "Prev"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image41": {
+      "styles": {},
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/left-arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox52": {
+      "styles": {
+        "alignSelf": "center"
+      },
+      "custom": {
+        "text": "Next"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image42": {
+      "styles": {},
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/right-arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button9": {
+      "styles": {
+        "color": "#fff",
+        "backgroundColor": "#1890ff",
+        "paddingTop": "",
+        "paddingLeft": "",
+        "paddingBottom": "",
+        "paddingRight": "",
+        "fontSize": "16px",
+        "borderRadius": "2px",
+        "outline": "none",
+        "fontWeight": 400,
+        "textAlign": "center",
+        "borderWidth": "1px",
+        "borderStyle": "none",
+        "borderColor": "#1890ff",
+        "cursor": "pointer",
+        "userSelect": "none",
+        "width": "0px",
+        "height": "0px"
+      },
+      "custom": {
+        "text": "Submit"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex84": {
+      "styles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "columnGap": "",
+        "rowGap": "24px",
+        "paddingTop": "20px",
+        "paddingBottom": "20px",
+        "justifyContent": "flex-start"
+      },
+      "callbacks": {}
+    },
+    "Flex85": {
+      "styles": {
+        "display": "flex",
+        "justifyContent": "space-between"
+      },
+      "callbacks": {}
+    },
+    "Flex86": {
+      "styles": {
+        "display": "flex",
+        "columnGap": "10px"
+      },
+      "callbacks": {}
+    },
+    "Flex87": {
+      "styles": {
+        "display": "flex",
+        "columnGap": "10px"
+      },
+      "callbacks": {}
+    },
+    "Flex88": {
+      "styles": {
+        "display": "flex",
+        "columnGap": "10px"
+      },
+      "callbacks": {}
+    },
+    "Button10": {
+      "styles": {
+        "color": "#94A3B8",
+        "backgroundColor": "#fcfcfcff",
+        "paddingTop": "8px",
+        "paddingLeft": "15px",
+        "paddingBottom": "8px",
+        "paddingRight": "15px",
+        "fontSize": "16px",
+        "borderRadius": "2px",
+        "outline": "none",
+        "fontWeight": 400,
+        "textAlign": "center",
+        "borderWidth": "1px",
+        "borderStyle": "solid",
+        "borderColor": "#94A3B8",
+        "cursor": "pointer",
+        "userSelect": "none",
+        "marginTop": "",
+        "width": "300px",
+        "fontFamily": "IBM Plex Sans"
+      },
+      "custom": {
+        "text": "Leave a comment"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex89": {
+      "styles": {
+        "display": "flex",
+        "justifyContent": "flex-end"
+      },
+      "callbacks": {}
+    },
+    "Input1": {
+      "styles": {
+        "boxSizing": "border-box",
+        "fontVariant": "tabular-nums",
+        "fontFeatureSettings": "tnum",
+        "paddingTop": "20px",
+        "paddingLeft": "11px",
+        "paddingBottom": "20px",
+        "paddingRight": "11px",
+        "color": "#000000d9",
+        "fontSize": "14px",
+        "backgroundColor": "#fff",
+        "backgroundImage": "none",
+        "borderWidth": "1px",
+        "borderStyle": "solid",
+        "borderColor": "#d9d9d9",
+        "borderRadius": "2px",
+        "outlineStyle": "none",
+        "width": "800px"
+      },
+      "custom": {
+        "value": "",
+        "placeholder": "Leave a comment"
+      },
+      "callbacks": {}
+    },
+    "TextBox53": {
+      "styles": {},
+      "custom": {
+        "text": "testname"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex90": {
+      "styles": {
+        "display": "flex",
+        "columnGap": "10px"
+      },
+      "callbacks": {}
+    },
+    "Flex91": {
+      "styles": {
+        "display": "flex",
+        "columnGap": "10px"
+      },
+      "callbacks": {}
+    },
+    "Flex92": {
+      "styles": {
+        "display": "flex",
+        "height": "100%",
+        "width": "1px",
+        "backgroundColor": "#6B7280"
+      },
+      "callbacks": {}
+    },
+    "Flex93": {
+      "styles": {
+        "display": "flex",
+        "justifyContent": "flex-start",
+        "marginTop": "20px",
+        "columnGap": "40px"
+      },
+      "callbacks": {}
+    },
+    "Flex94": {
+      "styles": {
+        "display": "flex",
+        "paddingLeft": "10px",
+        "paddingRight": "10px",
+        "flexDirection": "column",
+        "columnGap": "",
+        "rowGap": "30px"
+      },
+      "callbacks": {}
+    },
+    "TextBox54": {
+      "styles": {
+        "fontFamily": "IBM Plex Sans",
+        "fontSize": "16px",
+        "fontWeight": 600
+      },
+      "custom": {
+        "text": "All comments"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex95": {
+      "styles": {
+        "display": "flex"
+      },
+      "callbacks": {}
+    },
+    "Flex96": {
+      "styles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "rowGap": "10px"
+      },
+      "callbacks": {}
+    },
+    "Image43": {
+      "styles": {},
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/wrong-disabled.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image44": {
+      "styles": {},
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/warning_disabled.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image45": {
+      "styles": {
+        "width": "28px",
+        "height": "28px"
+      },
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/right_disabled.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex97": {
+      "styles": {
+        "display": "flex",
+        "rowGap": "",
+        "columnGap": "0.3rem",
+        "fontFamily": "IBM Plex Sans",
+        "fontWeight": 500,
+        "fontSize": "16px",
+        "marginTop": "",
+        "justifyContent": "flex-start"
+      },
+      "callbacks": {}
+    },
+    "Flex98": {
+      "styles": {
+        "display": "flex",
+        "color": "#6B7280",
+        "columnGap": "20px",
+        "fontFamily": "IBM Plex Sans",
+        "fontSize": "14px",
+        "paddingTop": "2px",
+        "paddingBottom": "2px",
+        "paddingLeft": "4px",
+        "paddingRight": "4px",
+        "borderRadius": "2px",
+        "borderStyle": "solid",
+        "borderWidth": "1px",
+        "borderColor": "#6B7280"
+      },
+      "callbacks": {}
+    },
+    "Flex99": {
+      "styles": {
+        "display": "flex"
+      },
+      "callbacks": {}
+    },
+    "Flex100": {
+      "styles": {
+        "display": "flex",
+        "paddingTop": "20px",
+        "paddingLeft": "100px",
+        "paddingRight": "100px",
+        "flexDirection": "column",
+        "rowGap": "40px"
+      },
+      "callbacks": {}
+    },
+    "Flex101": {
+      "styles": {
+        "display": "flex",
+        "marginTop": "20px",
+        "justifyContent": "center",
+        "flexDirection": "column",
+        "alignItems": "center",
+        "paddingLeft": "100px",
+        "paddingRight": "100px",
+        "width": "",
+        "boxSizing": "border-box"
+      },
+      "callbacks": {}
+    },
+    "Flex102": {
+      "styles": {
+        "display": "flex",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "columnGap": "30px",
+        "paddingTop": "",
+        "marginTop": "20px"
+      },
+      "callbacks": {}
+    },
+    "Flex103": {
+      "styles": {
+        "display": "flex",
+        "paddingTop": "40px",
+        "justifyContent": "space-between"
+      },
+      "callbacks": {}
+    },
+    "TextBox55": {
+      "styles": {
+        "borderWidth": "",
+        "fontSize": "24px",
+        "fontFamily": "IBM Plex Serif",
+        "fontWeight": 600,
+        "marginTop": "80px",
+        "paddingLeft": "",
+        "paddingTop": ""
+      },
+      "custom": {
+        "text": "View Test"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Flex104": {
+      "styles": {
+        "display": "flex",
+        "paddingTop": "60px",
+        "height": "100%",
+        "boxSizing": "border-box",
+        "flexDirection": "column",
+        "paddingLeft": "40px",
+        "paddingRight": "40px"
+      },
+      "callbacks": {}
+    }
   }
 }};
 
 const breakpointProps = {
   ...{
   "Home": {},
-  "new_test": {}
+  "new_test": {},
+  "view_test": {}
 }};
 
 function getViewportDimension() {

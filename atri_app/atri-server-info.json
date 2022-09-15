@@ -8,6 +8,9 @@
     },
     "/new_test": {
       "name": "new_test"
+    },
+    "/view_test": {
+      "name": "view_test"
     }
   },
   "publicUrlAssetMap": {
